@@ -1,4 +1,4 @@
-# IBM-Project-51788-1660983947
+# IBM-Project-51788-1660983947 (Inventory Managment System for Retailers)
 Inventory Managment System for Retailers
 Team ID : PNT2022TMID40750
 Team Leader : UMA SHANKAR P
