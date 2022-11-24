@@ -1,25 +1,25 @@
 ## :eyes: Deployed Application :balloon:
 
-#### 🚀 http://159.122.186.241:32346/ 🚀
+#### 🚀  http://159.122.177.252:32194/ 🚀
 
 
 
 ## :star2: Demonstration Video Link :star2:
 
-#### Vimeo : 📽️ https://vimeo.com/772997008 📽️
+#### Vimeo : 📽️ https://vimeo.com/774827478 📽️
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 <div align="center">
 <br/>
  <img src="https://www.pngpix.com/wp-content/uploads/2016/07/PNGPIX-COM-IBM-Logo-PNG-Transparent.png" alt="Logo" width="400" height="128">
  
-# IBM-Project-52068-1660988777
+#  IBM-Project-51788-1660983947
 # **Inventory Management System for Retailers**      
   </div> 
  
 
 Domain:  **Cloud Application Development**        
-Team ID : **PNT2022TMID41025**
+Team ID : **PNT2022TMID40750**
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 <img align="right" alt="Coding" width="300" height="400" src="https://cdn-web.gofrugal.com/images/inventory_ctrl/banner_img.svg">
@@ -42,11 +42,10 @@ businesses.</li>
 ## :people_holding_hands:Team Members :
 |   **Title**   |      **Name**     |
 |:-----------:|:-----------------:|
-| Team Leader   |    **Ganesan S**   |
-| Team Member 1 |   **Mahalakshmi V**  |
-| Team Member 2 |  **Abarna P**  |
-| Team Member 3 | **Chandru P** |
-| Team Member 4 | **Raveena** |
+| Team Leader   |    **UMA SHANKAR P**   |
+| Team Member 1 |   **VASANTHAKUMAR S**  |
+| Team Member 2 |  ** ELLAPPAN S**  |
+| Team Member 3 | **VISHAL S** |
 
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
