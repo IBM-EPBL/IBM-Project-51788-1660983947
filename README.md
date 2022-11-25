@@ -72,3 +72,5 @@ businesses.</li>
  - Inventory level are updated
  - low stock levels trigger purchasing
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
+
